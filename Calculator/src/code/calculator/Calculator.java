@@ -1,5 +1,8 @@
 package code.calculator;
-
+/**
+ * @author Aykut Acarer
+ * 
+ */
 import java.awt.Font;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
